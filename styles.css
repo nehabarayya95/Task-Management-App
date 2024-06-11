@@ -1,0 +1,19 @@
+.task-content {
+    flex: 1; /* Take remaining space */
+    font-size: 16px;
+    color: #555;
+}
+
+.delete-task {
+    margin-left: 20px; /* Adjust as needed */
+    border: none;
+    background-color: #dc3545;
+    color: white;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.delete-task:hover {
+    background-color: #c82333;
+}
